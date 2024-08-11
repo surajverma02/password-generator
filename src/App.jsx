@@ -51,8 +51,8 @@ function App() {
             ref = {passwordRef}
             readOnly
           />
-          <button onClick={copyPasswordToClipboard} className="outline-none bg-blue-600 text-white px-3 py-2 shrink-0">
-            copy
+          <button onClick={copyPasswordToClipboard} className="font-semibold outline-none bg-blue-600 text-white px-3 py-2 shrink-0 hover:bg-blue-800">
+            Copy
           </button>
         </div>
         <div className="flex text-sm justify-around mt-4">
