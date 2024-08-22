@@ -18,6 +18,10 @@ This project is a web-based Password Generator built using **React**, **Tailwind
 - **Tailwind CSS:** Utility-first CSS framework for styling the application.
 - **React Hooks:** Built-in hooks like `useState` and `useEffect` for state management and side effects.
 
-## sample:
+## Link
+
+<a href="https://passwor-generator.netlify.app/" > Link to application </a>
+
+## sample
 
 <img src="/public/page1.png" alt="Password Generator">
